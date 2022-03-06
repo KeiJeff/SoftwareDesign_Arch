@@ -3,6 +3,7 @@ package softwareArchitecture;
 import javax.swing.*;
 import java.awt.*;
 
+
 //hello World in swing
 
 public class Main {
@@ -27,6 +28,7 @@ public class Main {
 		// display it
 		frame.pack();
 		frame.setVisible(true);
+		
 
 	}
 }
